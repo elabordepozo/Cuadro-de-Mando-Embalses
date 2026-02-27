@@ -85,7 +85,7 @@ def main():
     print("\n" + "=" * 55)
     print("   🎉  ¡Proyecto subido a GitHub correctamente!")
     print("=" * 55)
-    print(f"\n🔗 https://github.com/elabordepozo/Cuadro-de-Mando-Embalses\n")
+    print(f"\n🔗 https://github.com/elabordepozo/Embalses-SCU\n")
 
 if __name__ == "__main__":
     main()
